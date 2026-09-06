@@ -1,0 +1,6 @@
+messages:
+  only-players: "<red>Nur Spieler können diesen Befehl ausführen!"
+  server-unavailable: "<red>Der Server <yellow>{server}</yellow> ist derzeit nicht verfügbar. Bitte kontaktiere einen Administrator."
+  already-connected: "<yellow>Du bist bereits mit <gold>{server}</gold> verbunden."
+  connect-success: "<green>Du wurdest erfolgreich mit <gray>{server}</gray> verbunden."
+  connect-failed: "<red>Verbindung zu <yellow>{server}</yellow> fehlgeschlagen: <gray>{reason}</gray>"

@@ -1,0 +1,11 @@
+{
+  "id": "trc-serverswitch",
+  "name": "TRC ServerSwitch",
+  "version": "${version}",
+  "main": "de.trc.trcserverswitch.TRCServerSwitch",
+  "description": "commands for switching between trc servers",
+  "url": "linktr.ee/theredcraft0803",
+  "authors": [
+    "TRC"
+  ]
+}
